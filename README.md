@@ -11,16 +11,17 @@ Unlike standard design workflows that only assume ideal operating conditions, **
 
 ## 📌 Log Index
 
-| Day | Topic / Focus Area | File Link |
-| :---: | :--- | :---: |
-| **01** | The Black Box Problem & Observability (Binary Search Strategy) | [`day-01.md`](./day-01.md) |
+| Day | Topic / Focus Area | Key DFD Principle | File Link |
+| :---: | :--- | :--- | :---: |
+| **01** | The Black Box Problem & Observability | Binary Search & Node Isolation Checklist | [`day-01.md`](./day-01.md) |
+| **02** | Controllability & Override Mechanisms | MUX Overrides & Factory Testing Checklists | [`day-02.md`](./day-02.md) |
 
 ---
 
-## 🛠️ Key Concepts Explored
-* **Observability & Controllability** — Accessing internal signals without destructive probing.
+## 🛠️ DFD Engineering Framework
+* **Observability & Controllability** — Accessing and forcing internal signals without destructive probing.
 * **Divide and Conquer (Binary Search)** — Isolating hardware faults in minimal diagnostic steps.
-* **Silicon Failure Analysis Mindset** — Designing hardware with built-in diagnostic backdoors.
+* **Structured Checklists** — Standardized diagnostic steps to systematically rule out failure modes.
 
 ---
 
