@@ -15,6 +15,7 @@ Unlike standard design workflows that only assume ideal operating conditions, **
 | :---: | :--- | :--- | :---: |
 | **01** | The Black Box Problem & Observability | Binary Search & Node Isolation Checklist | [`day-01.md`](./day-01.md) |
 | **02** | Controllability & Override Mechanisms | MUX Overrides & Factory Testing Checklists | [`day-02.md`](./day-02.md) |
+| **03** | The Golden Signature & Failure Isolation | Known Good Die & Signature Comparison | [`day-03.md`](./day-03.md) |
 
 ---
 
