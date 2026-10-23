@@ -17,6 +17,7 @@ Unlike standard design workflows that only assume ideal operating conditions, **
 | **02** | Controllability & Override Mechanisms | MUX Overrides & Factory Testing Checklists | [`day-02.md`](./day-02.md) |
 | **03** | The Golden Signature & Failure Isolation | Known Good Die & Signature Comparison | [`day-03.md`](./day-03.md) |
 | **04** | Scan Chains & The Bucket Brigade | Serial Shifting & Internal Node Inspection | [`day-04.md`](./day-04.md) |
+| **05** | Boundary Scan (JTAG) & Board-Level Debug | Virtual Pin Testing & Trace Fault Isolation | [`day-05.md`](./day-05.md) |
 
 ---
 
